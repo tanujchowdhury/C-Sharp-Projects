@@ -1,0 +1,14 @@
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.exe
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.deps.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.runtimeconfig.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.runtimeconfig.dev.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.dll
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.pdb
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.csproj.AssemblyReference.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.AssemblyInfoInputs.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.AssemblyInfo.cs
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.dll
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.pdb
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.genruntimeconfig.cache
