@@ -1,0 +1,14 @@
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ShippingQuoteGenerator\ShippingQuoteGenerator\bin\Debug\netcoreapp3.1\ShippingQuoteGenerator.exe
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ShippingQuoteGenerator\ShippingQuoteGenerator\bin\Debug\netcoreapp3.1\ShippingQuoteGenerator.deps.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ShippingQuoteGenerator\ShippingQuoteGenerator\bin\Debug\netcoreapp3.1\ShippingQuoteGenerator.runtimeconfig.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ShippingQuoteGenerator\ShippingQuoteGenerator\bin\Debug\netcoreapp3.1\ShippingQuoteGenerator.runtimeconfig.dev.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ShippingQuoteGenerator\ShippingQuoteGenerator\bin\Debug\netcoreapp3.1\ShippingQuoteGenerator.dll
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ShippingQuoteGenerator\ShippingQuoteGenerator\bin\Debug\netcoreapp3.1\ShippingQuoteGenerator.pdb
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ShippingQuoteGenerator\ShippingQuoteGenerator\obj\Debug\netcoreapp3.1\ShippingQuoteGenerator.csproj.AssemblyReference.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ShippingQuoteGenerator\ShippingQuoteGenerator\obj\Debug\netcoreapp3.1\ShippingQuoteGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ShippingQuoteGenerator\ShippingQuoteGenerator\obj\Debug\netcoreapp3.1\ShippingQuoteGenerator.AssemblyInfoInputs.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ShippingQuoteGenerator\ShippingQuoteGenerator\obj\Debug\netcoreapp3.1\ShippingQuoteGenerator.AssemblyInfo.cs
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ShippingQuoteGenerator\ShippingQuoteGenerator\obj\Debug\netcoreapp3.1\ShippingQuoteGenerator.csproj.CoreCompileInputs.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ShippingQuoteGenerator\ShippingQuoteGenerator\obj\Debug\netcoreapp3.1\ShippingQuoteGenerator.dll
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ShippingQuoteGenerator\ShippingQuoteGenerator\obj\Debug\netcoreapp3.1\ShippingQuoteGenerator.pdb
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ShippingQuoteGenerator\ShippingQuoteGenerator\obj\Debug\netcoreapp3.1\ShippingQuoteGenerator.genruntimeconfig.cache
