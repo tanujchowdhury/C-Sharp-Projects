@@ -20,6 +20,8 @@ namespace MethodOverloading
 
             //returns 351: 361 - 10
             Console.WriteLine(Math10("361"));
+
+            Console.ReadLine();
         }
     }
 }
