@@ -1,0 +1,14 @@
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\NamedParam\NamedParam\bin\Debug\netcoreapp3.1\NamedParam.exe
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\NamedParam\NamedParam\bin\Debug\netcoreapp3.1\NamedParam.deps.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\NamedParam\NamedParam\bin\Debug\netcoreapp3.1\NamedParam.runtimeconfig.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\NamedParam\NamedParam\bin\Debug\netcoreapp3.1\NamedParam.runtimeconfig.dev.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\NamedParam\NamedParam\bin\Debug\netcoreapp3.1\NamedParam.dll
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\NamedParam\NamedParam\bin\Debug\netcoreapp3.1\NamedParam.pdb
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\NamedParam\NamedParam\obj\Debug\netcoreapp3.1\NamedParam.csproj.AssemblyReference.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\NamedParam\NamedParam\obj\Debug\netcoreapp3.1\NamedParam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\NamedParam\NamedParam\obj\Debug\netcoreapp3.1\NamedParam.AssemblyInfoInputs.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\NamedParam\NamedParam\obj\Debug\netcoreapp3.1\NamedParam.AssemblyInfo.cs
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\NamedParam\NamedParam\obj\Debug\netcoreapp3.1\NamedParam.csproj.CoreCompileInputs.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\NamedParam\NamedParam\obj\Debug\netcoreapp3.1\NamedParam.dll
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\NamedParam\NamedParam\obj\Debug\netcoreapp3.1\NamedParam.pdb
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\NamedParam\NamedParam\obj\Debug\netcoreapp3.1\NamedParam.genruntimeconfig.cache
