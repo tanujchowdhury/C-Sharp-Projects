@@ -1,0 +1,14 @@
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\MiscMethods\MiscMethods\bin\Debug\netcoreapp3.1\MiscMethods.exe
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\MiscMethods\MiscMethods\bin\Debug\netcoreapp3.1\MiscMethods.deps.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\MiscMethods\MiscMethods\bin\Debug\netcoreapp3.1\MiscMethods.runtimeconfig.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\MiscMethods\MiscMethods\bin\Debug\netcoreapp3.1\MiscMethods.runtimeconfig.dev.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\MiscMethods\MiscMethods\bin\Debug\netcoreapp3.1\MiscMethods.dll
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\MiscMethods\MiscMethods\bin\Debug\netcoreapp3.1\MiscMethods.pdb
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\MiscMethods\MiscMethods\obj\Debug\netcoreapp3.1\MiscMethods.csproj.AssemblyReference.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\MiscMethods\MiscMethods\obj\Debug\netcoreapp3.1\MiscMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\MiscMethods\MiscMethods\obj\Debug\netcoreapp3.1\MiscMethods.AssemblyInfoInputs.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\MiscMethods\MiscMethods\obj\Debug\netcoreapp3.1\MiscMethods.AssemblyInfo.cs
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\MiscMethods\MiscMethods\obj\Debug\netcoreapp3.1\MiscMethods.csproj.CoreCompileInputs.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\MiscMethods\MiscMethods\obj\Debug\netcoreapp3.1\MiscMethods.dll
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\MiscMethods\MiscMethods\obj\Debug\netcoreapp3.1\MiscMethods.pdb
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\MiscMethods\MiscMethods\obj\Debug\netcoreapp3.1\MiscMethods.genruntimeconfig.cache
