@@ -10,7 +10,14 @@ namespace AbstractClassAssignment
             Employee employee = new Employee();
             employee.FirstName = "Sample";
             employee.LastName = "Student";
-            employee.SayName();
+            //employee.SayName();
+
+            //Calling the interface method on an Employee object
+            employee.Quit();
+
+
+
+
         }
     }
 }
