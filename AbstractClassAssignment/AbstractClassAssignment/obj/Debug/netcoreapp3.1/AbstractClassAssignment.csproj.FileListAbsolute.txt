@@ -1,0 +1,14 @@
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.exe
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.deps.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.runtimeconfig.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.runtimeconfig.dev.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.dll
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.pdb
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.csproj.AssemblyReference.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.AssemblyInfoInputs.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.AssemblyInfo.cs
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.dll
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.pdb
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.genruntimeconfig.cache
