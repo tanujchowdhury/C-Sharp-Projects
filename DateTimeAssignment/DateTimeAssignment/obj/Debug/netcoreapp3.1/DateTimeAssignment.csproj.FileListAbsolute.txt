@@ -1,0 +1,13 @@
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.exe
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.deps.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.runtimeconfig.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.runtimeconfig.dev.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.dll
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.pdb
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.AssemblyInfoInputs.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.AssemblyInfo.cs
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.dll
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.pdb
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.genruntimeconfig.cache
