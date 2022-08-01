@@ -1,0 +1,14 @@
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\LambdaFunctions\LambdaFunctions\bin\Debug\netcoreapp3.1\LambdaFunctions.exe
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\LambdaFunctions\LambdaFunctions\bin\Debug\netcoreapp3.1\LambdaFunctions.deps.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\LambdaFunctions\LambdaFunctions\bin\Debug\netcoreapp3.1\LambdaFunctions.runtimeconfig.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\LambdaFunctions\LambdaFunctions\bin\Debug\netcoreapp3.1\LambdaFunctions.runtimeconfig.dev.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\LambdaFunctions\LambdaFunctions\bin\Debug\netcoreapp3.1\LambdaFunctions.dll
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\LambdaFunctions\LambdaFunctions\bin\Debug\netcoreapp3.1\LambdaFunctions.pdb
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\LambdaFunctions\LambdaFunctions\obj\Debug\netcoreapp3.1\LambdaFunctions.csproj.AssemblyReference.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\LambdaFunctions\LambdaFunctions\obj\Debug\netcoreapp3.1\LambdaFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\LambdaFunctions\LambdaFunctions\obj\Debug\netcoreapp3.1\LambdaFunctions.AssemblyInfoInputs.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\LambdaFunctions\LambdaFunctions\obj\Debug\netcoreapp3.1\LambdaFunctions.AssemblyInfo.cs
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\LambdaFunctions\LambdaFunctions\obj\Debug\netcoreapp3.1\LambdaFunctions.csproj.CoreCompileInputs.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\LambdaFunctions\LambdaFunctions\obj\Debug\netcoreapp3.1\LambdaFunctions.dll
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\LambdaFunctions\LambdaFunctions\obj\Debug\netcoreapp3.1\LambdaFunctions.pdb
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\LambdaFunctions\LambdaFunctions\obj\Debug\netcoreapp3.1\LambdaFunctions.genruntimeconfig.cache
