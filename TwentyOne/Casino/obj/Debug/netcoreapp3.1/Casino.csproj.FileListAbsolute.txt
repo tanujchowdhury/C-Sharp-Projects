@@ -1,0 +1,9 @@
+C:\Users\chowd\source\repos\TwentyOne\Casino\bin\Debug\netcoreapp3.1\Casino.deps.json
+C:\Users\chowd\source\repos\TwentyOne\Casino\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\chowd\source\repos\TwentyOne\Casino\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\chowd\source\repos\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chowd\source\repos\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
+C:\Users\chowd\source\repos\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs
+C:\Users\chowd\source\repos\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
+C:\Users\chowd\source\repos\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.dll
+C:\Users\chowd\source\repos\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.pdb
