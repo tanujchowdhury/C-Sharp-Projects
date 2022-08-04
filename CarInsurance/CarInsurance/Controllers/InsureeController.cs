@@ -80,13 +80,14 @@ namespace CarInsurance.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Edit([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
         {
+            insuree.Quote = CalculateQuote(insuree);
             if (ModelState.IsValid)
             {
                 db.Entry(insuree).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
-            return View(insuree);
+            return View(insuree);            
         }
 
         // GET: Insuree/Delete/5
