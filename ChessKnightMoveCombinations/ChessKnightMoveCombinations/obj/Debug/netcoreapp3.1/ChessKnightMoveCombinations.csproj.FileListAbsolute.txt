@@ -1,0 +1,14 @@
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ChessKnightMoveCombinations\ChessKnightMoveCombinations\bin\Debug\netcoreapp3.1\ChessKnightMoveCombinations.exe
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ChessKnightMoveCombinations\ChessKnightMoveCombinations\bin\Debug\netcoreapp3.1\ChessKnightMoveCombinations.deps.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ChessKnightMoveCombinations\ChessKnightMoveCombinations\bin\Debug\netcoreapp3.1\ChessKnightMoveCombinations.runtimeconfig.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ChessKnightMoveCombinations\ChessKnightMoveCombinations\bin\Debug\netcoreapp3.1\ChessKnightMoveCombinations.runtimeconfig.dev.json
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ChessKnightMoveCombinations\ChessKnightMoveCombinations\bin\Debug\netcoreapp3.1\ChessKnightMoveCombinations.dll
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ChessKnightMoveCombinations\ChessKnightMoveCombinations\bin\Debug\netcoreapp3.1\ChessKnightMoveCombinations.pdb
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ChessKnightMoveCombinations\ChessKnightMoveCombinations\obj\Debug\netcoreapp3.1\ChessKnightMoveCombinations.csproj.AssemblyReference.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ChessKnightMoveCombinations\ChessKnightMoveCombinations\obj\Debug\netcoreapp3.1\ChessKnightMoveCombinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ChessKnightMoveCombinations\ChessKnightMoveCombinations\obj\Debug\netcoreapp3.1\ChessKnightMoveCombinations.AssemblyInfoInputs.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ChessKnightMoveCombinations\ChessKnightMoveCombinations\obj\Debug\netcoreapp3.1\ChessKnightMoveCombinations.AssemblyInfo.cs
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ChessKnightMoveCombinations\ChessKnightMoveCombinations\obj\Debug\netcoreapp3.1\ChessKnightMoveCombinations.csproj.CoreCompileInputs.cache
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ChessKnightMoveCombinations\ChessKnightMoveCombinations\obj\Debug\netcoreapp3.1\ChessKnightMoveCombinations.dll
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ChessKnightMoveCombinations\ChessKnightMoveCombinations\obj\Debug\netcoreapp3.1\ChessKnightMoveCombinations.pdb
+C:\Users\chowd\OneDrive\Documents\GitHub\C-Sharp-Projects\ChessKnightMoveCombinations\ChessKnightMoveCombinations\obj\Debug\netcoreapp3.1\ChessKnightMoveCombinations.genruntimeconfig.cache
